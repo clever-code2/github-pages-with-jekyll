@@ -1,3 +1,7 @@
+---
+title: "How To Make A Good Blog Post"
+date: 2020-31-10
+---
 Before you write a blog, make sure you know the answers to questions like, "Why would someone keep reading this entire blog post?" 
 and "What makes our audience come back for more?"
 To start, a good blog post is interesting and educational. Blogs should answer questions and help readers resolve a challenge they're 
