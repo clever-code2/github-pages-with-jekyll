@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: clever Blog
+author: clever E.
+email: cleveromo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  clever is javascript beginner with interest in nodejs, react and python. 
+  he is currently a student at decagon.clever is a graduate of industrial chemistry
+  with strong passion for problem solving and impact. he loves to study and watch football.
+  
+theme: minima
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: www.twitter.com/clever_omo # DO NOT include the @ character, or else the build will fail!
+github_username:  www.github.com/clever-code2 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
